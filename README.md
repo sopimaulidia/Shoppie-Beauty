@@ -1,3 +1,5 @@
+LINK GITHUB: https://github.com/sopimaulidia/Shoppie-Beauty
+LINK REPOSITORY: https://sopimaulidia.github.io/Shoppie-Beauty/
 # SHOPPAY-BEAUTY 💄
 
 Website e-commerce untuk koleksi skincare & makeup premium — dibangun dengan **HTML, CSS, dan JavaScript murni (vanilla)**, tanpa framework.
